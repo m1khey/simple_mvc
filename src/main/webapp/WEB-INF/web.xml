@@ -26,7 +26,7 @@
   
   <servlet-mapping>
     <servlet-name>my-dispatcher-servlet</servlet-name>
-    <url-pattern>/</url-pattern>
+    <url-pattern>/home</url-pattern>
   </servlet-mapping>
 
 </web-app>
